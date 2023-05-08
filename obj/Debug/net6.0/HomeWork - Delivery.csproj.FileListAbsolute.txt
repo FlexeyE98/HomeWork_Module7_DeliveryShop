@@ -1,0 +1,15 @@
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\bin\Debug\net6.0\HomeWork - Delivery.exe
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\bin\Debug\net6.0\HomeWork - Delivery.deps.json
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\bin\Debug\net6.0\HomeWork - Delivery.runtimeconfig.json
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\bin\Debug\net6.0\HomeWork - Delivery.dll
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\bin\Debug\net6.0\HomeWork - Delivery.pdb
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\obj\Debug\net6.0\HomeWork - Delivery.csproj.AssemblyReference.cache
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\obj\Debug\net6.0\HomeWork - Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\obj\Debug\net6.0\HomeWork - Delivery.AssemblyInfoInputs.cache
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\obj\Debug\net6.0\HomeWork - Delivery.AssemblyInfo.cs
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\obj\Debug\net6.0\HomeWork - Delivery.csproj.CoreCompileInputs.cache
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\obj\Debug\net6.0\HomeWork - Delivery.dll
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\obj\Debug\net6.0\refint\HomeWork - Delivery.dll
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\obj\Debug\net6.0\HomeWork - Delivery.pdb
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\obj\Debug\net6.0\HomeWork - Delivery.genruntimeconfig.cache
+C:\Delivery\HomeWork - Delivery\HomeWork - Delivery\obj\Debug\net6.0\ref\HomeWork - Delivery.dll
